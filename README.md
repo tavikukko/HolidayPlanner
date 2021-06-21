@@ -1,7 +1,7 @@
 # HolidayPlanner
 
 ## Description
-The task was easy to understand and it was interesting to implement. There was quite much things to think before jumping to the implementation, espacially 
+The task was easy to understand and it was interesting to implement. There was quite much things to think before jumping to the implementation, specially 
 all the validations of inputs and calculators.
 
 ## Challenges
