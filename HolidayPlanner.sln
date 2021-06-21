@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidayPlanner", "HolidayPlanner\HolidayPlanner.csproj", "{8A45C33E-34A2-4EF1-A27A-432A565C4125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{8B9EDF00-ACFA-48A1-88EE-AF0245BD7BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A45C33E-34A2-4EF1-A27A-432A565C4125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A45C33E-34A2-4EF1-A27A-432A565C4125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A45C33E-34A2-4EF1-A27A-432A565C4125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A45C33E-34A2-4EF1-A27A-432A565C4125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B9EDF00-ACFA-48A1-88EE-AF0245BD7BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9EDF00-ACFA-48A1-88EE-AF0245BD7BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9EDF00-ACFA-48A1-88EE-AF0245BD7BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9EDF00-ACFA-48A1-88EE-AF0245BD7BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CDB06E7-5B9E-425F-919D-FA3EA6E100BC}
+	EndGlobalSection
+EndGlobal
