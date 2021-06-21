@@ -7,3 +7,6 @@ all the validations of inputs and calculators.
 ## Challenges
 When using Console Application as the main program, the validation of inputs took the most of the time. 
 Another approach with GUI would propably made it a bit easier, but for this tas I think Console was enough.
+
+## Instructions
+Clone the project and open it in visual studio. Hit F5 to test the app.
